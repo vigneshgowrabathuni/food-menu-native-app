@@ -2,6 +2,7 @@
   "name": "food-menu-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "author": "Vignesh Gowrabathuni",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
